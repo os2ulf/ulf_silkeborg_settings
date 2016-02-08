@@ -2,3 +2,4 @@ name = Ulf Silkeborg settings
 description = Holds settings specific to Ulf i Silkeborg
 package = Ulf base
 core = 7.x
+
