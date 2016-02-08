@@ -1,0 +1,12 @@
+<?php
+/**
+ * Change theme name of ulfiaarhus.
+ */
+function ulf_silkeborg_settings_install() {
+  // Set the new theme name.
+  theme_enable(array('ud_og_laer'));
+  variable_set('theme_default', 'ud_og_laer');
+
+  // Clear all caches.
+  cache_clear_all();
+}
