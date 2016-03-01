@@ -1,6 +1,6 @@
 <?php
 /**
- * Change theme name of ulfiaarhus.
+ * Change theme name of ulf_silkeborg theme.
  */
 function ulf_silkeborg_settings_install() {
   // Set the new theme name.

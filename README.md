@@ -1,3 +1,2 @@
-# Ulf_Aarhus_settings
-Module containing specific settings for the Aarhus site
-# ulf_silkeborg_settings
+# Ulf_silkeborg_settings
+Module containing specific settings for the Silkeborg site
